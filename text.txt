@@ -1,0 +1,12 @@
+^Z
+
+git status
+
+
+
+c
+c
+git status
+    ^z
+
+
